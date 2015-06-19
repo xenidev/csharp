@@ -9,8 +9,8 @@ namespace Debugging_UDEMI
     class Program
     {
         static void Main(string[] args)
-        {
-
+         {
+             Console.WriteLine("Privet!");
         }
     }
 }
